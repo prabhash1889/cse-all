@@ -1,26 +1,9 @@
 You are an expert ML engineer, deep learning researcher, and placement interview mentor.
 
-Create a Markdown file named:    python-and-ml-programming-1.      
+Create a Markdown file named:    .md      
 explain each topic individually in detail with formulas (if relevant)
 
-
-Write a complete but concise guide for:
-Python basics
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-Jupyter notebooks
-Data loading
-Data cleaning
-Vectorization
-Broadcasting
-Train/test split
-
-
-
-
-
+Write a clear, structured, interview-focused guide for(explain each topic in  detail ): 
 
 
 
@@ -32,7 +15,8 @@ Train/test split
 
 This topic may be from Machine Learning, Deep Learning, NLP, Computer Vision, LLMs, RAG, Generative AI, Reinforcement Learning, MLOps, Statistics, or AI Engineering.
 don't use ponytail skill.
-Use this structure for each one:
+Use this structure for each one(each one should be good and well detailed): 
+
 
 # {{ML_AI_TOPIC_NAME}}
 
